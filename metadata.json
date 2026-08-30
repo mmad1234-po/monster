@@ -1,0 +1,6 @@
+{
+  "name": "Monster Realm: Arena of Alliances",
+  "description": "Epic online monster breeding, strategic PvP arena, seasonal leagues, guild wars, global leaderboards, item shop, team missions, and interactive voice & text chat.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
